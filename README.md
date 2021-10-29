@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there,
+
+## ⚡ This is where I showcase graphs I make!
+## 💬 How do you do?
+
 
 <!--
 **heyplanetox/heyplanetox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
