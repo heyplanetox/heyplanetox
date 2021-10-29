@@ -1,7 +1,7 @@
-### Hi there,
+## Hi there,
 
-## ⚡ This is where I showcase graphs I make!
-## 💬 How do you do?
+### ⚡ This is where I showcase graphs I make!
+### 💬 How do you do?
 
 
 <!--
