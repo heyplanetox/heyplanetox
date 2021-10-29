@@ -1,5 +1,3 @@
-## Hi there,
-
 ### ⚡ This is where I showcase graphs I make!
 ### 💬 How do you do?
 
